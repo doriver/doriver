@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-초보, 컴알못 개발자
-아직 할줄아는거 거의 없음   
-java, eclipse, spring / html, css, javascript, jquery / mysql, aws   
-조금씩 다뤄봄
+반가워요    
+웹 서버 개발자가 되기위해 노력하고 있습니다
