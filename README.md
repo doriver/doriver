@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 반가워요    
-웹 서버 개발자가 되기위해 노력하고 있습니다
+백엔드(java)개발자가 되기위해 노력하고 있습니다
